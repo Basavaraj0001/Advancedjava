@@ -1,3 +1,4 @@
+# Advanced Java
 Output for list implementation Program1 :-
 
 https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-1-ListInterface/ArrayList.png
@@ -33,5 +34,36 @@ Output for Swing Operations Program5 :-
 
 https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-5-Swing/CTP1.png
 https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-5-Swing/ColorTabbedPane.png
-https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-5-Swing/CountryCapitalList.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-5-Swing/
+CountryCapitalList.png
 https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-5-Swing/CountryListConsole.png
+
+Output for Servlet Program6 Cookie , Factorial , Prime Number :-
+
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-6-Servlet/6.1b_basu.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-6-Servlet/6a.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-6-Servlet/6b_basu.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-6-Servlet/prime1.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-6-Servlet/prime2.png
+
+Output for Servlet Program7 welcome and Cookie Management :-
+
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7ab1.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7ab2.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7ab3.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7bb1.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7bb2.png
+
+Output for JDBC Program8 insert , update operations:-
+
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8a.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8b.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8c.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8d.png
+
+Output for JDBC Program9 Add , Delete and Search Operations :-
+
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9a.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9b.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9c.png
+https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9d.png
