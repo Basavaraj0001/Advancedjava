@@ -55,14 +55,14 @@ https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-7-Servlet/7bb2.png
 
 Output for JDBC Program8 insert , update operations:-
 
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8a.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8b.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8c.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-8-JDBCExample/8d.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-8-JDBCExample/8A.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-8-JDBCExample/8B.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-8-JDBCExample/8C.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-8-JDBCExample/8D.png
 
 Output for JDBC Program9 Add , Delete and Search Operations :-
 
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9a.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9b.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9c.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-9-JDBCExample/9d.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-9-JDBCExample/9C.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-9-JDBCExample/9DB.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-9-JDBCExample/9aa.png
+https://github.com/Basavaraj0001/Advancedjava/blob/main/Exp-9-JDBCExample/9b.png
